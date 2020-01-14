@@ -1,5 +1,7 @@
 <?php
 
+namespace \kendaraan\mobil;
+
 class Kursi{
 	private $jumlahKursi;
 	private $jumlahRoda;
